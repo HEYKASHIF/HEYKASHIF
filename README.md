@@ -55,6 +55,7 @@
 <p align="left">
 
 [![HeyKashif's GitHub | Stats](https://stats.quine.sh/HeyKashif/github?theme=light)](https://quine.sh)
+  [![HeyKashif's GitHub | Languages Over Time](https://stats.quine.sh/HeyKashif/languages-over-time?theme=light)](https://quine.sh)
   
 </p>
 
