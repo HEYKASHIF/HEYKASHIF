@@ -27,12 +27,12 @@
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
 </a>   
 
-<a href="https://www.w3.org/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+
 </a>
   
 </p>
-
-<Img src = "https://github-readme-stats.vercel.app/api?username=HEYKASHIF&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://www.w3.org/python/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+<Img align="right" src = "https://github-readme-stats.vercel.app/api?username=HEYKASHIF&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
