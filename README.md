@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://twitter.com/hey_kashif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hey_kashif_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohdkashif38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdkashif38" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohd-kashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohd-kashif" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohd kashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohd-kashif" height="30" width="40" /></a>
 <a href="https://hashnode.com/@heykashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@heykashif" height="30" width="40" /></a>
 <a href="https://medium.com/@kashifmohd269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kashifmohd269" height="30" width="40" /></a>
 </p>
