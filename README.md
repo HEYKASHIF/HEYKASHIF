@@ -1,5 +1,5 @@
 <h1 align="center">Hey Folks 😎, Kashif This Side From India</h1>
-<h3 align="center">An Intense Fluter & iOS Developer From India.</h3>
+<h3 align="center">An Intense Flutter & iOS Developer From India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heykashif&label=Profile%20views&color=0e75b6&style=flat" alt="heykashif" /> </p>
 
